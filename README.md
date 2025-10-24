@@ -106,7 +106,7 @@
     </main>
 
     <footer>
-        <p>Made by <strong>Sean Denver A. Gudio</strong> | 11 Thessalonians | ICT Programming Department | Academic Year 2025</p>
+        <p>Made by <strong>Aldriz Joshuel C. De Guzman</strong> | 11 Thessalonians | ICT Programming Department | Academic Year 2025</p>
     </footer>
 
 </body>
